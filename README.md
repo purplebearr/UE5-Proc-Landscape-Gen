@@ -5,6 +5,7 @@ An infinite, streaming, procedural terrain generator for **Unreal Engine 5**, im
 ## Demo
 
 ▶ [Watch the demo on YouTube](https://www.youtube.com/watch?v=yV4OK1245CI)
+![Demo Animation](Demo.gif)
 
 ## Features
 
