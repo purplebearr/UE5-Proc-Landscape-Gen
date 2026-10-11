@@ -3,7 +3,7 @@
 An infinite, streaming, procedural terrain generator for **Unreal Engine 5**, implemented as a single actor (`ATerrainManagerActor`). Chunks are generated on worker threads around the player camera, meshed with LOD and edge stitching, and recycled as the player moves. Shape and surface texture are driven by layered noise and a temperature/moisture biome system.
 
 ## Demo
-![Demo Animation](Demo.gif)
+![Demo Animation](Demo.gif) <br>
 ▶ [Watch the demo on YouTube](https://www.youtube.com/watch?v=yV4OK1245CI)
 
 ## Features
